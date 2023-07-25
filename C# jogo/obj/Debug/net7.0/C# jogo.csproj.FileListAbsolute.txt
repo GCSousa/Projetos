@@ -1,0 +1,15 @@
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\bin\Debug\net7.0\C# jogo.exe
+c:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\bin\Debug\net7.0\C# jogo.deps.json
+c:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\bin\Debug\net7.0\C# jogo.runtimeconfig.json
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\bin\Debug\net7.0\C# jogo.dll
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\bin\Debug\net7.0\C# jogo.pdb
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\obj\Debug\net7.0\C# jogo.csproj.AssemblyReference.cache
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\obj\Debug\net7.0\C# jogo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\obj\Debug\net7.0\C# jogo.AssemblyInfoInputs.cache
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\obj\Debug\net7.0\C# jogo.AssemblyInfo.cs
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\obj\Debug\net7.0\C# jogo.csproj.CoreCompileInputs.cache
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\obj\Debug\net7.0\C# jogo.dll
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\obj\Debug\net7.0\refint\C# jogo.dll
+C:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\obj\Debug\net7.0\C# jogo.pdb
+c:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\obj\Debug\net7.0\C# jogo.genruntimeconfig.cache
+c:\Users\guiga\OneDrive\Área de Trabalho\Projetos\C# jogo\obj\Debug\net7.0\ref\C# jogo.dll
